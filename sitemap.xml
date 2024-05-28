@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://learninthecloud.co/az-104-dev/module01/Create%20a%20new%20Microsoft%20Entra%20ID%20tenant/</loc>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://learninthecloud.co/az-104-dev/module01/Create%20users%20and%20groups/</loc>
          <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
@@ -27,11 +32,6 @@
     </url>
     <url>
          <loc>https://learninthecloud.co/az-104-dev/module01/Manage%20user%20and%20group%20properties/</loc>
-         <lastmod>2024-05-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://learninthecloud.co/az-104-dev/module01/module15/Configure%20and%20interpret%20reports%20and%20alerts%20for%20backups/</loc>
          <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -72,6 +72,11 @@
     </url>
     <url>
          <loc>https://learninthecloud.co/az-104-dev/module15/Configure%20Azure%20Site%20Recovery%20for%20Azure%20resources/</loc>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://learninthecloud.co/az-104-dev/module15/Configure%20and%20interpret%20reports%20and%20alerts%20for%20backups/</loc>
          <lastmod>2024-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
